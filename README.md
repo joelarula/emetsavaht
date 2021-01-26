@@ -1,2 +1,2 @@
 # emetsavaht
-map tool
+estonian map tool
